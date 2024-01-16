@@ -3,8 +3,7 @@ This project is a visualization tool for path finding algorithms. The tool aims 
 1. Dijkstra's Algorithm
 2. A* Search Algorithm
 3. Bidirectional Algorithm
-4. Breadth-First
-5. Search Algorithm
+4. Breadth-First Search Algorithm
 6. Depth-First Search Algorithm
 
 ## Features
