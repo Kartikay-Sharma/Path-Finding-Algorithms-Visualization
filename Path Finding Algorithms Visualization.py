@@ -16,7 +16,7 @@ User interaction involve:
     3 - Buttons: Choosing the pathfinding algorithm, generating a maze or clearing the grid
     
 Note: After removing a start or end cell (by right click) user can reinstate
-    them by left-clicking on any cell before starting an algorihtm
+    them by left-clicking on any cell before starting an algorithm
     
 Path Finding Algorithms used:
     1 - Dijkstra's Algorithm
