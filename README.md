@@ -20,7 +20,9 @@ This project is a visualization tool for path finding algorithms. The tool aims 
 ## User Interaction
 - Right Click - Revert start, end or wall cell to a normal cell
 - Left Click - Designate a normal cell to wall cell
-- Buttons - Choose a path finding algorithm, clear the grid or generate a random maze
+- Buttons - Choose a path finding algorithm, clear the grid or generate a random maze  
+
+Note: After removing a start or end cell (by right click) user can reinstate them by left-clicking on any cell before starting an algorithm
 
 ## Languages - Libraries - Resources
 1. python
